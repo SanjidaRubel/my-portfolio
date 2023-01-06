@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+    height: 30px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    border: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+   
+}
+/* header and nav style */
+.nav-title{
+   font-weight: 800;
+   font-size: 45px; 
+}
+nav li{
+    list-style: none;
+    margin-left: 40px;
+    align-items: center;
+    
+    
+}
+nav ul {
+    display: flex;
+}
+.text-primary{
+    color: orange;
+}
+.banner{
+    display: flex;
+    margin: 0 200px;
+    align-items: center;
+   
+}
